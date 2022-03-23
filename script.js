@@ -1,1 +1,2 @@
-var a = 9;
+var myFirstName = 'Ilia';
+var myLastName = 'Polikarpov';
