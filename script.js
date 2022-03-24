@@ -1,9 +1,2 @@
-// Variable declarations
-var studlyCapVar;
-var properCamelCase;
-var titleCaseOver;
-
-// Variable assignments
-studlyCapVar = 10;
-properCamelCase = "A String";
-titleCaseOver = 9000;
+let myStr = 'This is the first sentence. ';
+myStr += 'This is the second sentence.';
