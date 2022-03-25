@@ -1,4 +1,4 @@
-const reusableFunction = function() {
-    console.log("Hi World");
+const functionWithArgs = function(x,y) {
+    console.log(x + y);
   }
-  reusableFunction();
+  functionWithArgs(0,-1);
